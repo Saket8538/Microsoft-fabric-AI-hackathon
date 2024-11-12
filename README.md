@@ -44,6 +44,7 @@ This repository provides a Python-based implementation of customer sentiment ana
 
 ##
 Replace placeholders like `your_openai_api_key`, `your_sql_server`, `your_database_name`, `your_database_username`, `your_database_password`, `YourUsername`, `YourRepository`, and `Your Name` with your actual information. 
+
 This [README.md](http://_vscodecontentref_/1) file provides an overview of the project, installation instructions, usage guidelines, and other relevant details.
 
 5.**Usage**
@@ -52,7 +53,7 @@ This [README.md](http://_vscodecontentref_/1) file provides an overview of the p
       
        python -m run python_file.py
     
-    2.*Open the app in your browser:*
+   2.*Open the app in your browser:*
        
        The app will be available at http://localhost:8000
 
