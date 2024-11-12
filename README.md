@@ -3,7 +3,7 @@
 
 **Overview**
 
-This repository provides a Python-based implementation of customer sentiment analysis using the OpenAI API. By leveraging the power of advanced language models, this project accurately classifies customer feedback as positive, negative, or neutral.
+This repository provides a Python-based implementation of customer sentiment analysis using the Azure SQL Databsase and  OpenAI API. By leveraging the power of advanced language models, this project accurately classifies customer feedback as positive, negative, or neutral.
 
 **Prerequisites**
 
