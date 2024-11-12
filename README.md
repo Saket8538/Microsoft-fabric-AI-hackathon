@@ -85,17 +85,17 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 *Acknowledgements**
 
-##Streamlit
+#Streamlit
 
-##OpenAI
+#OpenAI
 
-##pandas
+#pandas
 
-##matplotlib
+#matplotlib
 
-##python-dotenv
+#python-dotenv
 
-##pyodbc
+#pyodbc
 
 **Contributing:**
 
