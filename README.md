@@ -36,14 +36,15 @@ This repository provides a Python-based implementation of customer sentiment ana
 
 #Create a .env file in the root directory of the project and add your environment variables.
 
-*`OPENAI_API_KEY=your_openai_api_key`
-*`SQL_SERVER=your_sql_server`
-*`SQL_DATABASE=your_database_name`
-*`SQL_USERNAME=your_database_username`
-*`SQL_PASSWORD=your_database_password`
+* `OPENAI_API_KEY=your_openai_api_key`
+* `SQL_SERVER=your_sql_server`
+* `SQL_DATABASE=your_database_name`
+* `SQL_USERNAME=your_database_username`
+* `SQL_PASSWORD=your_database_password`
 
 ##
-Replace placeholders like `your_openai_api_key`, `your_sql_server`, `your_database_name`, `your_database_username`, `your_database_password`, `YourUsername`, `YourRepository`, and `Your Name` with your actual information. This [README.md](http://_vscodecontentref_/1) file provides an overview of the project, installation instructions, usage guidelines, and other relevant details.
+Replace placeholders like `your_openai_api_key`, `your_sql_server`, `your_database_name`, `your_database_username`, `your_database_password`, `YourUsername`, `YourRepository`, and `Your Name` with your actual information. 
+This [README.md](http://_vscodecontentref_/1) file provides an overview of the project, installation instructions, usage guidelines, and other relevant details.
 
 5.**Usage**
   
