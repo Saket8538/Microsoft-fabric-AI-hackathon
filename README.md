@@ -24,23 +24,23 @@ This repository provides a Python-based implementation of customer sentiment ana
 2. **Install dependencies**
    * `pip install openai requests json`
 
-**Create and activate a virtual environment:**
-  *`python -m venv venv`
-*`.\venv\Scripts\activate ` # On Windows
-*`source venv/bin/activate ` # On macOS/Linux
+* **Create and activate a virtual environment:**
+  * `python -m venv venv`
+  * `.\venv\Scripts\activate ` # On Windows
+  * `source venv/bin/activate ` # On macOS/Linux
 
 3. **Install the required packages:**
- *` pip install -r requirements.txt`
+   * ` pip install -r requirements.txt`
 
 4.**Set up environment variables:**
 
 #Create a .env file in the root directory of the project and add your environment variables.
 
-*`OPENAI_API_KEY=your_openai_api_key
-SQL_SERVER=your_sql_server
-SQL_DATABASE=your_database_name
-SQL_USERNAME=your_database_username
-SQL_PASSWORD=your_database_password`
+*`OPENAI_API_KEY=your_openai_api_key`
+*`SQL_SERVER=your_sql_server`
+*`SQL_DATABASE=your_database_name`
+*`SQL_USERNAME=your_database_username`
+*`SQL_PASSWORD=your_database_password`
 
 ##
 Replace placeholders like `your_openai_api_key`, `your_sql_server`, `your_database_name`, `your_database_username`, `your_database_password`, `YourUsername`, `YourRepository`, and `Your Name` with your actual information. This [README.md](http://_vscodecontentref_/1) file provides an overview of the project, installation instructions, usage guidelines, and other relevant details.
