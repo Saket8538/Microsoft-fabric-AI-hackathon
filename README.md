@@ -83,19 +83,19 @@ Replace placeholders like `your_openai_api_key`, `your_sql_server`, `your_databa
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-*Acknowledgements**
+**Acknowledgements**
 
-#Streamlit
+`Streamlit`
 
-#OpenAI
+`OpenAI`
 
-#pandas
+`pandas`
 
-#matplotlib
+`matplotlib`
 
-#python-dotenv
+`python-dotenv`
 
-#pyodbc
+`pyodbc`
 
 **Contributing:**
 
